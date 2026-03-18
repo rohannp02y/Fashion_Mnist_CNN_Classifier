@@ -62,7 +62,7 @@ The CNN model was trained on Fashion MNIST (60,000 training images, 10,000 test 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/fashion-mnist-classifier.git
+git clone https://github.com/rohannp02y/Fashion_Mnist_CNN_Classifier.git
 cd fashion-mnist-classifier
 ```
 
